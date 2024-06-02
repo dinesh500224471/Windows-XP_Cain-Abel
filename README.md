@@ -14,3 +14,6 @@ Ensure that the firewall is disabled to allow installation and functionality of 
 Cracking Passwords:
 
 Use Cain & Abel to perform brute force and dictionary attacks to crack the passwords of the created user accounts.
+
+Visit this link to get the .ova format of windows XP with installed Cain and Abel: https://drive.google.com/drive/folders/1jCUmUqaTiCq99DKgHfWdHcEGViAcYNKH?usp=sharing
+Administrative User: Archive and Password:
